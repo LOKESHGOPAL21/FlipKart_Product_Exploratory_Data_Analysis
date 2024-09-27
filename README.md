@@ -1,9 +1,9 @@
-#Project Documentation: Exploratory Data Analysis on Flipkart Product Dataset
+# Project Documentation: Exploratory Data Analysis on Flipkart Product Dataset
 
-#1. Project Overview
+# 1. Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset scraped from Flipkart, a popular e-commerce platform. The dataset contains various features about products, such as their categories, ratings, prices, seller information, and descriptions. The goal of this analysis was to clean the dataset, handle missing values, and derive insights using univariate and bivariate analysis, represented through various visualizations.
 
-#2. Dataset Description
+# 2. Dataset Description
 The dataset consists of the following features:
 
 Category1, Category2, Category3: Specify the division (primary, secondary, and tertiary categories) to which each product belongs.<br>
@@ -54,13 +54,12 @@ Key Steps:
 Boxplots for Various Columns: Boxplots were created to understand the distribution of various columns such as Product Rating and Selling Price.
 Selling Price vs Product: A graph was plotted to represent 10 randomly selected products and their corresponding selling prices.
 
-#4. Key Insights from the EDA
+# 4. Key Insights from the EDA
 Product Categories: From the univariate analysis, I found that Category1 had a clear distribution with specific categories dominating the dataset.
-Product Rating Distribution: The majority of products had average ratings between 3 and 4. The boxplot for Product Rating revealed that there were some outliers, with a few products receiving lower ratings.
 Selling Prices: Selling prices showed significant variance, with some products being sold well below their MRP. A comparative analysis of Selling Price and MRP indicated that many products had substantial discounts.
-Seller Rating Distribution: Similar to product ratings, most sellers had ratings between 3 and 4, with few extreme values.
+Seller Rating Distribution: Similar to product ratings, most sellers had ratings 5, with few extreme values.
 
-#5. Visual Representations
+# 5. Visual Representations
 Pie Chart for Category1: Showed the proportion of different categories.
 Bar Plot for Category2 and Category3: Visualized the top 10 frequent values.
 Boxplots for Product Rating and Selling Price: Helped in identifying the spread and outliers in the data.
