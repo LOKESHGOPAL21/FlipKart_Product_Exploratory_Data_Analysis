@@ -65,11 +65,11 @@ Bar Plot for Category2 and Category3: Visualized the top 10 frequent values.
 Boxplots for Product Rating and Selling Price: Helped in identifying the spread and outliers in the data.
 Graph for Product Ratings: Demonstrated the frequency of ratings.
 
-#6. Conclusion
+# 6. Conclusion
 This exploratory data analysis provided a comprehensive view of the Flipkart product dataset. The cleaning process ensured that missing values were appropriately handled, and both univariate and bivariate analyses provided useful insights into the relationships between product categories, prices, ratings, and sellers. Visualizing the data helped highlight trends, such as pricing strategies and customer feedback distribution, making the dataset easier to interpret and analyze.
 
-#Tools and Libraries Used:
-#Python Libraries:
+# Tools and Libraries Used:
+# Python Libraries:
 Pandas, Matplotlib, Seaborn
-#Methods: 
+# Methods: 
 Univariate and Bivariate Analysis, Data Cleaning, Visualization (Pie charts, Bar plots, Boxplots)
